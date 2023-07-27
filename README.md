@@ -24,6 +24,6 @@
 </p>
 <br>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yatharth-97&theme=monokai-metallian)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yatharth-97&theme=monokai)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yatharth-97)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yatharth-97&theme=monokai)
