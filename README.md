@@ -24,6 +24,6 @@
 </p>
 <br>
 
-![Yatharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=yatharth-97&show_icons=true&theme=one_dark_pro)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yatharth-97&theme=monokai-metallian)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yatharth-97)](https://github.com/anuraghazra/github-readme-stats)
