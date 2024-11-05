@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yatharth</h1>
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **React Native**
 
 ### 💻 Stack I Work With
 
